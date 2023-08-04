@@ -1,3 +1,3 @@
-mlcube==0.0.10rc7
+mlcube==0.0.10rc8
 protobuf==3.20.3
 kfp==1.8.18
