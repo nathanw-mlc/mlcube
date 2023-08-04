@@ -61,7 +61,7 @@ jobs:
         verify-metadata: true
         skip-existing: true
         packages-dir: runners/mlcube_gcp/dist/
-        repository-url: https://upload.pypi.org/legacy/
+        repository-url: https://test.pypi.org/legacy/
         verbose: true
       env:
         LOGLEVEL: DEBUG
