@@ -1,2 +1,2 @@
-mlcube==0.0.10rc6
+mlcube==0.0.10rc7
 kubernetes==12.0.0
